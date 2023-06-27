@@ -163,6 +163,7 @@ nav {
     overflow: hidden;
 
     /* Style */
+    -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
     border-bottom: 2px solid var(--font-color);
 
