@@ -65,17 +65,17 @@ h1 {
 
 
 h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: "Akira";
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-family: "Akira";
 }
 
 p {
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
 }
 
@@ -152,6 +152,7 @@ nav {
     overflow: hidden;
 
     /* Style */
+    background-color: #0c005a9a;
     -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(10px);
     border-bottom: 2px solid var(--font-color);
