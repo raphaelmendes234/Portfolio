@@ -315,7 +315,6 @@ article {
 
     display: flex;
     flex-wrap: wrap;
-    align-content: center;
     justify-content: flex-start;
 }
 
@@ -325,8 +324,8 @@ article > p {
 }
 
 img {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: auto;
 
     /* border: 2px solid var(--font-color);
     box-shadow: 2px 2px 0px 0px #700000; */
@@ -489,7 +488,7 @@ footer > a > .icon_container > svg:hover {
     }
     img {
         width: 660px;
-        height: 660px;
+        height: auto;
     }
 } 
 
@@ -529,7 +528,7 @@ footer > a > .icon_container > svg:hover {
 
     img {
         width: 560px;
-        height: 560px;
+        height: auto;
     }
 
     
